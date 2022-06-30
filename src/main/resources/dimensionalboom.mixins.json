@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dreamer.dimensionalboom.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "EntityMixin",
+    "SonicBoomTaskMixin"
+  ],
+  "client": [
+    "EntityMixin",
+    "SonicBoomTaskMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

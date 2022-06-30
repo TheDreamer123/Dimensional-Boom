@@ -1,0 +1,10 @@
+{
+  "gamerule.dimensionalboom:isekaiAllMobs": "Should isekai all mobs (Dimensional Boom)",
+  "gamerule.dimensionalboom:isekaiAllMobs.description": "If true all mobs will get isekai'd by the sonic boom.",
+
+  "gamerule.dimensionalboom:dealSonicBoomDamage": "Should the sonic boom deal damage (Dimensional Boom)",
+  "gamerule.dimensionalboom:dealSonicBoomDamage.description": "If true the sonic boom will deal damage upon isekai.",
+
+  "gamerule.dimensionalboom:showIsekaiMessageAllMobs": "Should all mobs send an isekai message (Dimensional Boom)",
+  "gamerule.dimensionalboom:showIsekaiMessageAllMobs.description": "If true all mobs will send a message in chat alerting it was isekai'd."
+}
